@@ -4,6 +4,6 @@ https://example.com/
 
 [link](URL){:target="_blank" rel="noopener noreferrer"}
 
-[https://example.com/](https://example.com/){:target="_blank" rel="noopener noreferrer"}
+<a>[https://example.com/](https://example.com/){:target="_blank" rel="noopener noreferrer"}</a>
 
 
